@@ -1,0 +1,15 @@
+brand_id,brand_name,brand_type,private_label_tier,description
+20001,The King’s Pantry Select,Private Label,Premium,In-house premium line of artisan and curated goods.
+20002,Smallfolk Essentials,Private Label,Value,In-house value line for everyday staples.
+20003,Crown Reserve,Private Label,Luxury,In-house luxury imports and vintages.
+10011,House Tyrell Provisions,Vendor,,Regional produce and grain supplier from The Reach.
+10012,Iron Isles Fisheries,Vendor,,Smoked herring and seafood from the Iron Islands.
+10013,Crownland Creamery,Vendor,,Dairy & bakery goods from the Crownlands.
+10014,Dornish Spice Traders,Vendor,,Exotic spices and oils from Dorne.
+10015,Stormlands Meats Co.,Vendor,,Meat & poultry from the Stormlands.
+10016,Vale Harvest Co.,Vendor,,"Harvesters of oats, rice, and seasonal grains."
+10017,Northwind Frozen Foods,Vendor,,Frozen meals and vegetables from the North.
+10018,Seaworth Shipping & Supply,Vendor,,Imports and logistics from Crownland ports.
+10019,Citadel Imports,Vendor,,Specialty imports from Oldtown.
+10020,Dragonstone Brewing Co.,Vendor,,"Ales, stouts, and ciders from Dragonstone."
+10021,Maester’s Apothecary Co.,Vendor,,"Citadel workshop producing household goods, soaps, and herbal tonics across the realm."
